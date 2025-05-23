@@ -1,0 +1,12 @@
+name: FirstDash
+title: FirstDash
+username: pickrace
+account: pickrace
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14811681
+bundleId: 10328959
+url: https://pickrace.shinyapps.io/FirstDash/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
